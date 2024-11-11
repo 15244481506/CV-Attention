@@ -1,2 +1,2 @@
 # CV-Modules
-本项目用来记录研究生期间看过的论文中的代码，将常用或感觉用得上的模块记录下来。这些模块主要是视觉领域的一些注意力模块或者视频预测领域的单元、还有一些指标计算的代码。
+This project is used to record the codes in the papers I have read, and record the modules that are commonly used or feel useful. These modules are mainly some attention modules in the field of vision or units in the field of video prediction, as well as some codes for calculating evaluation indicators.
